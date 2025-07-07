@@ -1,0 +1,17 @@
+# Simon Says Game 🎮
+
+This is a simple memory game built using HTML, CSS, and JavaScript.
+
+## How to Play
+- Press any key to start.
+- Watch the color sequence.
+- Click buttons in the same order.
+- Game ends when you click the wrong button.
+
+## Features
+- Level tracking
+- Random color sequence
+- Game over screen with score
+
+## Author
+Made by Anushka Pathak ✨
